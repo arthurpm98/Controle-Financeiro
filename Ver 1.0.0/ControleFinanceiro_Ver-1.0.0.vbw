@@ -1,0 +1,8 @@
+FormLogin = 104, 104, 1001, 534, , 26, 26, 952, 335, C
+clsConexaoBanco = 52, 52, 734, 482, Z
+mdlGeral = 78, 78, 760, 508, 
+FormMenu = 78, 78, 760, 508, C, 78, 78, 1049, 508, C
+FormReceitas = 130, 130, 812, 560, C, 104, 104, 1001, 534, C
+FormCategorias = 78, 78, 975, 508, , 104, 104, 786, 534, C
+FormDespesas = 0, 0, 756, 430, , 130, 130, 812, 560, C
+mdlControlesDeTela = 52, 52, 949, 482, 
